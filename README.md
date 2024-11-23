@@ -1,4 +1,26 @@
-# Bank-loan-of-customers - Dashboard
-**Purpose:**
-The purpose of this project is to build a scalable, secure, and user-friendly system for managing customer bank loans. It aims to streamline the loan application, approval, and repayment processes by integrating automation and analytics, improving customer satisfaction and operational efficiency for the bank.
+<h1 align="center">Hi 👋, I'm Happy Gera</h1>
+<h3 align="center">Business Analytics</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=happygera&label=Profile%20views&color=0e75b6&style=flat" alt="happygera" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happygera" alt="happygera" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **Bank-loan-of-customers**
+
+- 👯 I’m looking to collaborate on **Bank-loan-of-customers - Dashboard**
+
+- ⚡ Fun fact **I work on power bi**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/happy gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="happy gera" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happygera&show_icons=true&locale=en&layout=compact" alt="happygera" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happygera&show_icons=true&locale=en" alt="happygera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happygera&" alt="happygera" /></p>
 
