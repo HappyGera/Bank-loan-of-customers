@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Happy Gera</h1>
-<h3 align="center">Business Analytics</h3>
+# Bank Loan Of Customer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=happygera&label=Profile%20views&color=0e75b6&style=flat" alt="happygera" /> </p>
+## Purpose
+The purpose of this project is to build a scalable, secure, and user-friendly system for managing customer bank loans. It aims to streamline the loan application, approval, and repayment processes by integrating automation and analytics, improving customer satisfaction and operational efficiency for the bank.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happygera" alt="happygera" /></a> </p>
+## Project Scope
+### Inclusions
+- **Loan Application Management**: A platform for customers to apply for loans with status tracking.
+- **Loan Approval Workflow**: Tools for bank officials to review and approve loans based on predefined rules.
+- **Payment Tracking**: Integration with payment gateways to monitor repayments and generate alerts for overdue payments.
+- **Analytics Dashboard**: Insights on loan performance, customer segmentation, and risk profiling.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Exclusions
+- External financial systems integration.
+- Customer credit score generation (assumed to be sourced from third-party providers).
 
-- 🔭 I’m currently working on **Bank-loan-of-customers**
+## Impact and Benefits
+### Impact
+- Reduces loan processing time by 50% through automated workflows.
+- Improves compliance with regulatory standards by incorporating audit-ready documentation.
+- Enhances customer satisfaction with real-time loan tracking and communication.
 
-- 👯 I’m looking to collaborate on **Bank-loan-of-customers - Dashboard**
+### Benefits
+- **For the Bank**: Increases operational efficiency and reduces human errors.
+- **For Customers**: Simplifies the application process and ensures transparency.
+- **For Developers**: Provides a modular and extensible framework for future updates and integrations.
 
-- ⚡ Fun fact **I work on power bi**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/happy gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="happy gera" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happygera&show_icons=true&locale=en&layout=compact" alt="happygera" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happygera&show_icons=true&locale=en" alt="happygera" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happygera&" alt="happygera" /></p>
-
+## Problem Statements
+- **Manual Processes**: Current loan management systems rely heavily on manual intervention, leading to delays and errors.
+- **Lack of Transparency**: Customers often lack visibility into the status of their loan applications, causing frustration.
+- **Inconsistent Approval Criteria**: Varying loan approval criteria across branches lead to inefficiencies and customer dissatisfaction.
+- **Limited Analytics**: Lack of actionable insights into loan data hinders risk assessment and strategic decision-making.
+- **Compliance Risks**: Inadequate tracking of loan documentation poses regulatory risks.
